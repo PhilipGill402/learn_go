@@ -111,5 +111,3 @@ func main() {
 		fmt.Println("Failed: ", link);
 	}
 }
-
-
